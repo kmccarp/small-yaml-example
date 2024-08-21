@@ -1,0 +1,9 @@
+languages:
+  en:
+    name: Name
+    phone: Phone
+    email: Email
+  es:
+    name: Nombre
+    phone: Teléfono
+    email: Email

@@ -1,0 +1,4 @@
+message:
+  name: message.name
+  phone: message.phone
+  email: message.email
